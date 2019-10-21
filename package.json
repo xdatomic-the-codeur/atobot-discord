@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "atobot-discord",
+  "version": "0.1.0",
+  "description": "bot discord open source",
+  "main": "main.js",
+  "repository": "https://github.com/xdatomic-the-codeur/atobot-discord.git",
+  "author": "<erwann.philippe2@gmail.com>",
+  "license": "MIT"
 }
